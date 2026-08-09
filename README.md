@@ -1,17 +1,10 @@
 <div align="center">
 
-```
-$ whoami
-> Sachin — Full-Stack Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f12,100:1a3d24&height=200&section=header&text=GigaSachin&fontSize=60&fontColor=8AE234&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=5fd46e" width="100%"/>
 
-$ status
-> Open to work / freelance
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8AE234&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Sachin+%E2%80%94+Full-Stack+Developer;%24+status;%3E+Open+to+work+%2F+freelance;%24+currentBuild;%3E+Milkkart+%F0%9F%A5%9B" alt="typing-svg" />
 
-$ location
-> India
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8AE234&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TanStack+%2B+Cloudflare+Workers;Building+Milkkart+%F0%9F%A5%9B;Open+to+freelance+%2F+full-time" alt="typing-svg" />
+<img src="https://komarev.com/ghpvc/?username=GigaSachin&label=Profile+Views&color=1a3d24&style=for-the-badge" />
 
 </div>
 
@@ -19,7 +12,7 @@ $ location
 
 ### `> about.sh`
 
-```bash
+```javascript
 const sachin = {
     role: "Full-Stack Web Developer",
     focus: ["React", "TanStack Start", "Cloudflare Workers", "Next.js"],
@@ -29,9 +22,19 @@ const sachin = {
 };
 ```
 
-I build and ship end-to-end web products — from payment integrations to
-executive dashboards to full brand-driven landing experiences. Comfortable
-owning a project from architecture to pixel-level polish.
+I build and ship end-to-end web products — payment integrations, executive
+dashboards, and full brand-driven landing experiences. Comfortable owning a
+project from architecture to pixel-level polish.
+
+---
+
+### `> tech_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,tailwind,cloudflare,git,figma,vscode&theme=dark" />
+
+</div>
 
 ---
 
@@ -39,7 +42,7 @@ owning a project from architecture to pixel-level polish.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🥛 [Milkkart](https://themilkkart.online)**
 Rural-to-urban dairy delivery startup — lactometer-based fair farmer
@@ -47,7 +50,7 @@ pricing, cold-chain delivery, zero-wastage surplus processing.
 `TanStack Start` `Cloudflare Workers` `Razorpay`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🌊 ABYSSAL**
 Bioluminescent deep-sea observatory concept — canvas particle system,
@@ -57,7 +60,7 @@ custom cursor, parallax hero, interactive depth explorer.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **📊 IOCL Executive Dashboard**
 Enterprise-grade control-room dashboard — KPI cards, crude import
@@ -65,11 +68,11 @@ charts, live alerts, refinery status, on-brand orange/navy theme.
 `Next.js` `Tailwind` `Recharts`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏥 Doctors & Patient Management App**
-Management app for doctor-patient workflows.
-`Full-Stack` `CRUD`
+**🧠 Hindsight-AI**
+AI agent memory tool — lets agents remember and learn across sessions.
+`Python` `AI` `Agents`
 
 </td>
 </tr>
@@ -77,29 +80,38 @@ Management app for doctor-patient workflows.
 
 ---
 
-### `> stack`
+### `> github_stats`
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare_Workers-000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GigaSachin&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GigaSachin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GigaSachin&theme=github-dark-blue&hide_border=true&background=00000000&ring=8AE234&fire=8AE234&currStreakLabel=8AE234" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GigaSachin&theme=react-dark&hide_border=true&bg_color=00000000&color=8AE234&line=8AE234&point=ffffff" width="100%"/>
 
 </div>
 
 ---
 
-### `> github_stats`
+### `> trophies`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GigaSachin&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GigaSachin&layout=compact&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=GigaSachin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GigaSachin&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
+### `> contribution_snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GigaSachin/GigaSachin/output/github-snake-dark.svg" width="100%" />
+
+<sub>👆 iska setup neeche diye gaye steps mein hai (GitHub Action se auto-generate hota hai)</sub>
 
 </div>
 
@@ -109,12 +121,14 @@ Management app for doctor-patient workflows.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sachinsingh280106@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
 
 ```
 $ echo "Let's build something."
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3d24,100:0d1f12&height=100&section=footer" width="100%"/>
 
 </div>
