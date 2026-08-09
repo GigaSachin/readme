@@ -122,8 +122,8 @@ AI agent memory tool — lets agents remember and learn across sessions.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sachinsingh280106@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sachin-singh-8027a0353 ))
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SachinSingh0028)
 
 ```
 $ echo "Let's build something."
